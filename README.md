@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **thisaryan1ia@gmail.com**
 
-- 📄 Know about my experiences
+#### 📄 Know about my experiences
  - 🧠 AI Trainer at Remotasks – Worked on refining real-world AI models across multiple domains
  - 🤖 Built a medical chatbot using LangChain, Pinecone, Flask & Python for intelligent healthcare interactions
  - 📊 Data Science Intern at Cognifyz Technologies – Applied machine learning techniques for real-world datasets
