@@ -11,7 +11,14 @@
 
 - 📫 How to reach me **thisaryan1ia@gmail.com**
 
-- 📄 Know about my experiences [- 🧠 AI Trainer at Remotasks – Worked on refining real-world AI models across multiple domains - 🤖 Built a medical chatbot using LangChain, Pinecone, Flask & Python for intelligent healthcare interactions - 📊 Data Science Intern at Cognifyz Technologies – Applied machine learning techniques for real-world datasets - 📝 Published research on AI in healthcare at the Journal Of Technology - 📚 Strong grasp of CFA fundamentals – Passionate about equity research, portfolio management, investment banking, and wealth management - 🧠 Exploring AI applications in investment analytics and financial decision-making](- 🧠 AI Trainer at Remotasks – Worked on refining real-world AI models across multiple domains - 🤖 Built a medical chatbot using LangChain, Pinecone, Flask & Python for intelligent healthcare interactions - 📊 Data Science Intern at Cognifyz Technologies – Applied machine learning techniques for real-world datasets - 📝 Published research on AI in healthcare at the Journal Of Technology - 📚 Strong grasp of CFA fundamentals – Passionate about equity research, portfolio management, investment banking, and wealth management - 🧠 Exploring AI applications in investment analytics and financial decision-making)
+- 📄 Know about my experiences
+ - 🧠 AI Trainer at Remotasks – Worked on refining real-world AI models across multiple domains
+ - 🤖 Built a medical chatbot using LangChain, Pinecone, Flask & Python for intelligent healthcare interactions
+ - 📊 Data Science Intern at Cognifyz Technologies – Applied machine learning techniques for real-world datasets
+ - 📝 Published research on AI in healthcare at the Journal Of Technology
+ - 📚 Strong grasp of CFA fundamentals – Passionate about equity research, portfolio management, investment banking, and wealth management
+ - 🧠 Exploring AI applications in investment analytics and financial decision-making
+
 
 - ⚡ Fun fact **I'm coding my way into Wall Street — one line of Python at a time.**
 
