@@ -35,7 +35,7 @@
  - 🧠 Exploring AI applications in investment analytics and financial decision-making
 
 
-- ⚡ Fun fact **I'm coding my way into Wall Street — one line of Python at a time.**
+ #### ⚡ Fun fact **I'm coding my way into Wall Street — one line of Python at a time.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
