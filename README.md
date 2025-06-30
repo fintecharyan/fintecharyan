@@ -5,9 +5,24 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fintecharyan" alt="fintecharyan" /></a> </p>
 
-- 🌱 I’m currently learning **- 📘 CFA Level 1 curriculum: Financial Reporting, Ethics, and Quantitative Methods - 🧠 Machine Learning for Financial Forecasting - 🧾 Advanced Excel for financial modeling & data automation - 📊 Python for finance: NumPy, Pandas, yFinance, and backtesting libraries - 🌐 Building fintech apps & dashboards - 🔎 NLP for analyzing market sentiment and financial news**
+### 🌱 I’m currently learning 
+- 📘 CFA Level 1 curriculum: Financial Reporting, Ethics, and Quantitative Methods
+- 🧠 Machine Learning for Financial Forecasting
+- 🧾 Advanced Excel for financial modeling & data automation
+- 📊 Python for finance: NumPy, Pandas, yFinance, and backtesting libraries
+- 🌐 Building fintech apps & dashboards
+- 🔎 NLP for analyzing market sentiment and financial news
 
-- 💬 Ask me about **- 📊 Financial statement analysis & equity valuation (CFA Level 1 concepts) - 💹 Portfolio management, asset allocation & risk analysis - 🧠 Using AI/ML in finance: predictive models & quantitative analysis - 🧮 Time value of money, NPV, IRR & DCF modeling in Python - 💸 Building algorithmic trading strategies & backtesting - 📈 Financial data visualization using Python (Pandas, Matplotlib, Plotly) - 🧾 Automating reports & financial workflows using Excel & Python - 🌍 Global markets, macroeconomic indicators & investment strategies - 📚 CFA prep tips, tools, and study resources**
+### 💬 Ask me about 
+- 📊 Financial statement analysis & equity valuation (CFA Level 1 concepts)
+- 💹 Portfolio management, asset allocation & risk analysis
+- 🧠 Using AI/ML in finance: predictive models & quantitative analysis
+- 🧮 Time value of money, NPV, IRR & DCF modeling in Python
+- 💸 Building algorithmic trading strategies & backtesting
+- 📈 Financial data visualization using Python (Pandas, Matplotlib, Plotly)
+- 🧾 Automating reports & financial workflows using Excel & Python
+- 🌍 Global markets, macroeconomic indicators & investment strategies
+- 📚 CFA prep tips, tools, and study resources**
 
 - 📫 How to reach me **thisaryan1ia@gmail.com**
 
